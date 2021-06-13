@@ -10,7 +10,9 @@ The script launches the rocket, performs the gravity turn, separates
 burned-out stages but does not fully circularize the craft.
 
 ///NOTES:
+
   -> The script does not perform a rendesvouz or a docking.
+  
   -> Includes .craft files with and without the kOS parts.
   
-Kerbal Space Program 1.11.2
+  -> Tested in Kerbal Space Program Version 1.11.2.
