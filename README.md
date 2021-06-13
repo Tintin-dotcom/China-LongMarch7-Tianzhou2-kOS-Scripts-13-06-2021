@@ -11,3 +11,6 @@ burned-out stages but does not fully circularize the craft.
 
 ///NOTES:
   -> The script does not perform a rendesvouz or a docking.
+  -> Includes .craft files with and without the kOS parts.
+  
+Kerbal Space Program 1.11.2
