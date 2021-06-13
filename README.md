@@ -13,7 +13,7 @@ burned-out stages but does not fully circularize the craft.
 
   -> The script does not perform a rendesvouz or a docking.
   
-  -> Includes .craft files with and without the kOS parts, both for the
-     Tianzhou 2 spacecraft and the Tianhe core module.
+  -> Includes .craft files oth for the Tianzhou 2 spacecraft, with and
+     without the kOS parts, and the Tianhe core module.
   
   -> Tested in Kerbal Space Program Version 1.11.2.
